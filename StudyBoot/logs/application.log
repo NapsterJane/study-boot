@@ -1,0 +1,381 @@
+2021-08-26T13:36:31.316+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5307 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T13:36:31.318+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T13:36:31.318+0530 INFO The following profiles are active: studyboot
+2021-08-26T13:36:34.704+0530 INFO Started StudyBootApplication in 3.661 seconds (JVM running for 4.437)
+2021-08-26T13:36:34.707+0530 INFO info log
+2021-08-26T13:36:34.708+0530 DEBUG debug log
+2021-08-26T14:08:53.053+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4149 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:08:53.056+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:08:53.056+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:08:57.121+0530 INFO Started StudyBootApplication in 4.389 seconds (JVM running for 5.551)
+2021-08-26T14:08:57.127+0530 INFO info log
+2021-08-26T14:08:57.128+0530 DEBUG debug log
+2021-08-26T14:10:38.486+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4341 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:10:38.497+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:10:38.498+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:11:00.839+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4431 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:11:00.843+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:11:00.843+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:11:04.788+0530 INFO Started StudyBootApplication in 4.284 seconds (JVM running for 5.699)
+2021-08-26T14:11:04.791+0530 INFO info log
+2021-08-26T14:11:04.793+0530 DEBUG debug log
+2021-08-26T14:11:52.306+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4431 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:11:52.306+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:11:52.306+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:11:52.883+0530 INFO Started StudyBootApplication in 0.608 seconds (JVM running for 53.793)
+2021-08-26T14:11:52.884+0530 INFO info log
+2021-08-26T14:11:52.885+0530 DEBUG debug log
+2021-08-26T14:12:07.309+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4588 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:12:07.315+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:12:07.315+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:12:11.055+0530 INFO Started StudyBootApplication in 4.39 seconds (JVM running for 5.706)
+2021-08-26T14:12:11.059+0530 INFO info log
+2021-08-26T14:12:11.060+0530 DEBUG debug log
+2021-08-26T14:12:37.694+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4588 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:12:37.696+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:12:37.696+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:12:38.945+0530 INFO Started StudyBootApplication in 1.365 seconds (JVM running for 33.595)
+2021-08-26T14:12:38.947+0530 INFO info log
+2021-08-26T14:12:38.947+0530 DEBUG debug log
+2021-08-26T14:14:19.734+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5216 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:14:19.737+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:14:19.738+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:14:22.230+0530 INFO hello world page --INFO jane
+2021-08-26T14:14:22.231+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:14:43.298+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:14:43.301+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:14:43.301+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:14:46.193+0530 INFO Started StudyBootApplication in 3.224 seconds (JVM running for 4.779)
+2021-08-26T14:14:46.201+0530 INFO info log
+2021-08-26T14:14:46.202+0530 DEBUG debug log
+2021-08-26T14:16:35.363+0530 INFO hello world page --INFO jane
+2021-08-26T14:16:35.363+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:16:45.747+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:16:45.747+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:16:45.747+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:16:46.538+0530 INFO Started StudyBootApplication in 0.837 seconds (JVM running for 125.125)
+2021-08-26T14:16:46.540+0530 INFO info log
+2021-08-26T14:16:46.541+0530 DEBUG debug log
+2021-08-26T14:18:40.141+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:18:40.141+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:18:40.141+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:18:41.139+0530 INFO Started StudyBootApplication in 1.068 seconds (JVM running for 239.726)
+2021-08-26T14:18:41.140+0530 INFO info log
+2021-08-26T14:18:41.141+0530 DEBUG debug log
+2021-08-26T14:18:53.621+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:18:53.621+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:18:53.621+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:18:54.326+0530 INFO Started StudyBootApplication in 0.739 seconds (JVM running for 252.913)
+2021-08-26T14:18:54.327+0530 INFO info log
+2021-08-26T14:18:54.327+0530 DEBUG debug log
+2021-08-26T14:19:35.827+0530 INFO hello world page --INFO jane
+2021-08-26T14:19:35.827+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:19:45.823+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:19:45.823+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:19:45.823+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:19:46.516+0530 INFO Started StudyBootApplication in 0.718 seconds (JVM running for 305.103)
+2021-08-26T14:19:46.518+0530 INFO info log
+2021-08-26T14:19:46.518+0530 DEBUG debug log
+2021-08-26T14:19:58.358+0530 INFO hello world page --INFO jane
+2021-08-26T14:19:58.358+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:23:22.811+0530 INFO hello world page --INFO jane
+2021-08-26T14:23:22.815+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:26:56.859+0530 INFO hello world page --INFO jane
+2021-08-26T14:26:56.861+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:34:20.346+0530 INFO hello world page --INFO jane
+2021-08-26T14:34:20.346+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:34:33.743+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:34:33.744+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:34:33.744+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:34:34.803+0530 INFO Started StudyBootApplication in 1.086 seconds (JVM running for 1193.39)
+2021-08-26T14:34:34.813+0530 INFO info log
+2021-08-26T14:34:34.813+0530 DEBUG debug log
+2021-08-26T14:34:40.449+0530 INFO hello world page --INFO jane
+2021-08-26T14:34:40.449+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:34:43.487+0530 INFO hello world page --INFO jane
+2021-08-26T14:34:43.487+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:34:56.188+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:34:56.188+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:34:56.188+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:34:56.954+0530 INFO Started StudyBootApplication in 0.79 seconds (JVM running for 1215.54)
+2021-08-26T14:34:56.956+0530 INFO info log
+2021-08-26T14:34:56.956+0530 DEBUG debug log
+2021-08-26T14:35:06.377+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:35:06.377+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:35:06.378+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:35:06.964+0530 INFO Started StudyBootApplication in 0.611 seconds (JVM running for 1225.551)
+2021-08-26T14:35:06.968+0530 INFO info log
+2021-08-26T14:35:06.970+0530 DEBUG debug log
+2021-08-26T14:35:18.491+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:35:18.491+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:35:18.491+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:35:19.062+0530 INFO Started StudyBootApplication in 0.679 seconds (JVM running for 1237.648)
+2021-08-26T14:35:19.063+0530 INFO info log
+2021-08-26T14:35:19.063+0530 DEBUG debug log
+2021-08-26T14:35:29.206+0530 INFO hello world page --INFO jane
+2021-08-26T14:35:29.207+0530 DEBUG hello world page --DEBUG jane
+2021-08-26T14:35:34.543+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:35:34.543+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:35:34.543+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:35:35.088+0530 INFO Started StudyBootApplication in 0.568 seconds (JVM running for 1253.674)
+2021-08-26T14:35:35.090+0530 INFO info log
+2021-08-26T14:35:35.090+0530 DEBUG debug log
+2021-08-26T14:35:43.494+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 5303 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-26T14:35:43.494+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-26T14:35:43.494+0530 INFO The following profiles are active: studyboot
+2021-08-26T14:35:43.915+0530 INFO Started StudyBootApplication in 0.446 seconds (JVM running for 1262.502)
+2021-08-26T14:35:43.917+0530 INFO info log
+2021-08-26T14:35:43.917+0530 DEBUG debug log
+2021-08-26T14:35:45.667+0530 INFO hello world page --INFO jane
+2021-08-26T14:35:45.667+0530 DEBUG hello world page --DEBUG jane
+2021-08-29T20:22:18.709+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4279 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-29T20:22:18.714+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-29T20:22:18.714+0530 INFO The following profiles are active: studyboot
+2021-08-29T20:22:23.609+0530 INFO Started StudyBootApplication in 5.863 seconds (JVM running for 9.521)
+2021-08-29T20:22:23.613+0530 INFO info log
+2021-08-29T20:22:23.614+0530 DEBUG debug log
+2021-08-29T20:31:54.796+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4279 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-29T20:31:54.797+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-29T20:31:54.797+0530 INFO The following profiles are active: studyboot
+2021-08-29T20:31:56.269+0530 INFO Started StudyBootApplication in 1.539 seconds (JVM running for 582.181)
+2021-08-29T20:31:56.271+0530 INFO info log
+2021-08-29T20:31:56.272+0530 DEBUG debug log
+2021-08-29T20:34:15.526+0530 INFO hello world page --INFO jane
+2021-08-29T20:34:15.529+0530 DEBUG hello world page --DEBUG jane
+2021-08-29T20:34:53.989+0530 INFO hello world page --INFO jane
+2021-08-29T20:34:53.989+0530 DEBUG hello world page --DEBUG jane
+2021-08-29T21:08:23.738+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4279 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-29T21:08:23.740+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-29T21:08:23.740+0530 INFO The following profiles are active: studyboot
+2021-08-29T21:08:24.962+0530 INFO Started StudyBootApplication in 1.291 seconds (JVM running for 2770.875)
+2021-08-29T21:08:24.965+0530 INFO info log
+2021-08-29T21:08:24.966+0530 DEBUG debug log
+2021-08-29T21:08:51.107+0530 INFO hello world page --INFO jane
+2021-08-29T21:08:51.107+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:09:17.629+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8364 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:09:17.634+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:09:17.634+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:09:22.772+0530 INFO Started StudyBootApplication in 5.704 seconds (JVM running for 7.679)
+2021-08-30T12:09:22.779+0530 INFO info log
+2021-08-30T12:09:22.781+0530 DEBUG debug log
+2021-08-30T12:09:37.628+0530 INFO hello world page --INFO jane
+2021-08-30T12:09:37.633+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:12:39.266+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:12:39.269+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:12:39.269+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:12:42.898+0530 INFO Started StudyBootApplication in 4.015 seconds (JVM running for 5.482)
+2021-08-30T12:12:42.901+0530 INFO info log
+2021-08-30T12:12:42.910+0530 DEBUG debug log
+2021-08-30T12:13:48.117+0530 INFO hello world page --INFO jane
+2021-08-30T12:13:48.117+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:14:02.609+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:14:02.609+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:14:02.609+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:14:03.657+0530 INFO Started StudyBootApplication in 1.117 seconds (JVM running for 86.241)
+2021-08-30T12:14:03.660+0530 INFO info log
+2021-08-30T12:14:03.661+0530 DEBUG debug log
+2021-08-30T12:19:36.575+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:19:36.581+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:19:36.582+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:19:37.622+0530 INFO Started StudyBootApplication in 1.151 seconds (JVM running for 420.206)
+2021-08-30T12:19:37.624+0530 INFO info log
+2021-08-30T12:19:37.625+0530 DEBUG debug log
+2021-08-30T12:22:48.310+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:22:48.310+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:22:48.310+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:22:49.366+0530 INFO Started StudyBootApplication in 1.079 seconds (JVM running for 611.95)
+2021-08-30T12:22:49.369+0530 INFO info log
+2021-08-30T12:22:49.369+0530 DEBUG debug log
+2021-08-30T12:23:09.894+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:23:09.894+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:23:09.894+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:23:10.675+0530 INFO Started StudyBootApplication in 0.814 seconds (JVM running for 633.259)
+2021-08-30T12:23:10.677+0530 INFO info log
+2021-08-30T12:23:10.677+0530 DEBUG debug log
+2021-08-30T12:23:34.219+0530 INFO hello world page --INFO jane
+2021-08-30T12:23:34.220+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:28:11.592+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:28:11.593+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:28:11.593+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:28:12.532+0530 INFO Started StudyBootApplication in 1.019 seconds (JVM running for 935.116)
+2021-08-30T12:28:12.533+0530 INFO info log
+2021-08-30T12:28:12.533+0530 DEBUG debug log
+2021-08-30T12:28:19.456+0530 INFO hello world page --INFO jane
+2021-08-30T12:28:19.456+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:28:34.130+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:28:34.130+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:28:34.130+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:28:35.307+0530 INFO Started StudyBootApplication in 1.224 seconds (JVM running for 957.891)
+2021-08-30T12:28:35.313+0530 INFO info log
+2021-08-30T12:28:35.313+0530 DEBUG debug log
+2021-08-30T12:30:06.022+0530 INFO hello world page --INFO jane
+2021-08-30T12:30:06.022+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:32:35.007+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:32:35.007+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:32:35.007+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:32:35.695+0530 INFO Started StudyBootApplication in 0.724 seconds (JVM running for 1198.279)
+2021-08-30T12:32:35.698+0530 INFO info log
+2021-08-30T12:32:35.698+0530 DEBUG debug log
+2021-08-30T12:33:16.188+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:33:16.188+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:33:16.188+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:33:16.912+0530 INFO Started StudyBootApplication in 0.754 seconds (JVM running for 1239.496)
+2021-08-30T12:33:16.914+0530 INFO info log
+2021-08-30T12:33:16.914+0530 DEBUG debug log
+2021-08-30T12:33:35.416+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:33:35.416+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:33:35.416+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:33:36.301+0530 INFO Started StudyBootApplication in 0.939 seconds (JVM running for 1258.885)
+2021-08-30T12:33:36.304+0530 INFO info log
+2021-08-30T12:33:36.304+0530 DEBUG debug log
+2021-08-30T12:33:56.762+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:33:56.762+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:33:56.762+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:33:57.397+0530 INFO Started StudyBootApplication in 0.662 seconds (JVM running for 1279.98)
+2021-08-30T12:33:57.398+0530 INFO info log
+2021-08-30T12:33:57.398+0530 DEBUG debug log
+2021-08-30T12:34:00.910+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 8523 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:34:00.910+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:34:00.910+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:34:17.248+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:34:17.251+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:34:17.251+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:34:21.797+0530 INFO Started StudyBootApplication in 5.171 seconds (JVM running for 6.764)
+2021-08-30T12:34:21.800+0530 INFO info log
+2021-08-30T12:34:21.801+0530 DEBUG debug log
+2021-08-30T12:34:46.424+0530 INFO hello world page --INFO jane
+2021-08-30T12:34:46.426+0530 DEBUG hello world page --DEBUG jane
+2021-08-30T12:35:54.490+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T12:35:54.491+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T12:35:54.492+0530 INFO The following profiles are active: studyboot
+2021-08-30T12:35:55.535+0530 DEBUG Config Class
+2021-08-30T12:36:11.373+0530 INFO Started StudyBootApplication in 16.931 seconds (JVM running for 116.34)
+2021-08-30T12:36:11.380+0530 INFO info log
+2021-08-30T12:36:11.380+0530 DEBUG debug log
+2021-08-30T12:36:33.481+0530 DEBUG Application Filter
+2021-08-30T13:10:49.916+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T13:10:49.917+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T13:10:49.917+0530 INFO The following profiles are active: studyboot
+2021-08-30T13:10:51.666+0530 DEBUG Config Class
+2021-08-30T13:10:54.813+0530 INFO Started StudyBootApplication in 4.948 seconds (JVM running for 2199.78)
+2021-08-30T13:10:54.819+0530 INFO info log
+2021-08-30T13:10:54.820+0530 DEBUG debug log
+2021-08-30T13:12:05.370+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T13:12:05.371+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T13:12:05.371+0530 INFO The following profiles are active: studyboot
+2021-08-30T13:12:06.066+0530 DEBUG Config Class
+2021-08-30T13:12:45.794+0530 INFO Started StudyBootApplication in 40.444 seconds (JVM running for 2310.761)
+2021-08-30T13:12:45.798+0530 INFO info log
+2021-08-30T13:12:45.801+0530 DEBUG debug log
+2021-08-30T13:12:47.224+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T13:12:47.225+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T13:12:47.225+0530 INFO The following profiles are active: studyboot
+2021-08-30T13:12:47.599+0530 DEBUG Config Class
+2021-08-30T13:12:47.706+0530 INFO Started StudyBootApplication in 0.512 seconds (JVM running for 2312.674)
+2021-08-30T13:12:47.708+0530 INFO info log
+2021-08-30T13:12:47.708+0530 DEBUG debug log
+2021-08-30T13:12:50.571+0530 DEBUG Application Filter
+2021-08-30T13:29:27.689+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 9907 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T13:29:27.690+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T13:29:27.690+0530 INFO The following profiles are active: studyboot
+2021-08-30T13:29:28.871+0530 DEBUG Config Class
+2021-08-30T13:29:28.990+0530 INFO Started StudyBootApplication in 1.398 seconds (JVM running for 3313.957)
+2021-08-30T13:29:28.991+0530 INFO info log
+2021-08-30T13:29:28.996+0530 DEBUG debug log
+2021-08-30T21:48:26.572+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 22838 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T21:48:26.579+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T21:48:26.579+0530 INFO The following profiles are active: studyboot
+2021-08-30T21:50:04.311+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 23011 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T21:50:04.315+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T21:50:04.315+0530 INFO The following profiles are active: studyboot
+2021-08-30T21:50:09.185+0530 DEBUG Config Class
+2021-08-30T21:50:20.560+0530 INFO Started StudyBootApplication in 16.631 seconds (JVM running for 18.258)
+2021-08-30T21:50:20.570+0530 INFO info log
+2021-08-30T21:50:20.571+0530 DEBUG debug log
+2021-08-30T21:50:45.284+0530 DEBUG Application Filter
+2021-08-30T21:58:33.654+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 23011 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T21:58:33.655+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T21:58:33.656+0530 INFO The following profiles are active: studyboot
+2021-08-30T21:58:35.254+0530 DEBUG Config Class
+2021-08-30T21:58:43.949+0530 INFO Started StudyBootApplication in 10.346 seconds (JVM running for 521.647)
+2021-08-30T21:58:43.954+0530 INFO info log
+2021-08-30T21:58:43.955+0530 DEBUG debug log
+2021-08-30T21:58:49.740+0530 DEBUG Application Filter
+2021-08-30T21:59:36.559+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 23750 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T21:59:36.574+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T21:59:36.574+0530 INFO The following profiles are active: studyboot
+2021-08-30T21:59:42.095+0530 DEBUG Config Class
+2021-08-30T22:00:17.366+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 23880 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T22:00:17.369+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T22:00:17.370+0530 INFO The following profiles are active: studyboot
+2021-08-30T22:00:21.737+0530 DEBUG Config Class
+2021-08-30T22:00:26.311+0530 INFO Started StudyBootApplication in 9.487 seconds (JVM running for 10.975)
+2021-08-30T22:00:26.316+0530 INFO info log
+2021-08-30T22:00:26.317+0530 DEBUG debug log
+2021-08-30T22:00:43.514+0530 DEBUG Application Filter
+2021-08-30T22:04:47.077+0530 DEBUG Application Filter
+2021-08-30T22:08:25.378+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 23880 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-08-30T22:08:25.379+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-08-30T22:08:25.379+0530 INFO The following profiles are active: studyboot
+2021-08-30T22:08:26.690+0530 DEBUG Config Class
+2021-08-30T22:08:29.599+0530 INFO Started StudyBootApplication in 4.313 seconds (JVM running for 494.263)
+2021-08-30T22:08:29.606+0530 INFO info log
+2021-08-30T22:08:29.607+0530 DEBUG debug log
+2021-08-30T22:08:36.138+0530 DEBUG Application Filter
+2021-08-30T22:09:01.906+0530 DEBUG Application Filter
+2021-09-02T13:44:26.559+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T13:44:26.564+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T13:44:26.564+0530 INFO The following profiles are active: studyboot
+2021-09-02T13:44:31.788+0530 DEBUG Config Class
+2021-09-02T13:44:42.517+0530 INFO Started StudyBootApplication in 16.543 seconds (JVM running for 18.834)
+2021-09-02T13:44:42.527+0530 INFO info log
+2021-09-02T13:44:42.529+0530 DEBUG debug log
+2021-09-02T13:45:01.468+0530 DEBUG Application Filter
+2021-09-02T13:45:42.904+0530 DEBUG Application Filter
+2021-09-02T13:56:51.643+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T13:56:51.644+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T13:56:51.644+0530 INFO The following profiles are active: studyboot
+2021-09-02T13:56:52.650+0530 DEBUG Config Class
+2021-09-02T13:56:55.569+0530 INFO Started StudyBootApplication in 3.976 seconds (JVM running for 751.886)
+2021-09-02T13:56:55.572+0530 INFO info log
+2021-09-02T13:56:55.573+0530 DEBUG debug log
+2021-09-02T13:57:05.884+0530 DEBUG Application Filter
+2021-09-02T13:58:57.375+0530 INFO hello world page --INFO jane
+2021-09-02T13:58:57.375+0530 DEBUG hello world page --DEBUG jane
+2021-09-02T14:00:48.226+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:00:48.227+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:00:48.227+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:01:53.689+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:01:53.689+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:01:53.689+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:01:58.814+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:01:58.814+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:01:58.814+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:01:59.999+0530 DEBUG Config Class
+2021-09-02T14:03:14.153+0530 INFO Started StudyBootApplication in 75.388 seconds (JVM running for 1130.47)
+2021-09-02T14:03:14.155+0530 INFO info log
+2021-09-02T14:03:14.156+0530 DEBUG debug log
+2021-09-02T14:03:56.435+0530 DEBUG Application Filter
+2021-09-02T14:04:10.457+0530 INFO hello world page --INFO jane
+2021-09-02T14:04:10.459+0530 DEBUG hello world page --DEBUG jane
+2021-09-02T14:04:49.792+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:04:49.792+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:04:49.792+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:04:50.815+0530 DEBUG Config Class
+2021-09-02T14:04:54.149+0530 INFO Started StudyBootApplication in 4.405 seconds (JVM running for 1230.466)
+2021-09-02T14:04:54.151+0530 INFO info log
+2021-09-02T14:04:54.152+0530 DEBUG debug log
+2021-09-02T14:05:19.714+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:05:19.715+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:05:19.717+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:05:20.341+0530 DEBUG Config Class
+2021-09-02T14:05:23.360+0530 INFO Started StudyBootApplication in 3.688 seconds (JVM running for 1259.677)
+2021-09-02T14:05:23.362+0530 INFO info log
+2021-09-02T14:05:23.362+0530 DEBUG debug log
+2021-09-02T14:06:01.960+0530 INFO Starting StudyBootApplication using Java 16.0.1 on napster-Lenovo-IdeaPad-S145-15IIL with PID 4605 (/home/napster/Napster/jane_workspace/StudyBoot/target/classes started by napster in /home/napster/Napster/jane_workspace/StudyBoot)
+2021-09-02T14:06:01.960+0530 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-02T14:06:01.960+0530 INFO The following profiles are active: studyboot
+2021-09-02T14:06:02.592+0530 DEBUG Config Class
+2021-09-02T14:06:05.226+0530 INFO Started StudyBootApplication in 3.328 seconds (JVM running for 1301.543)
+2021-09-02T14:06:05.228+0530 INFO info log
+2021-09-02T14:06:05.228+0530 DEBUG debug log
